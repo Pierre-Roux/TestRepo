@@ -72,3 +72,4 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 SpaceSurvivor/Library/PackageCache/
+TestRepo_project/ProjectSettings/SceneTemplateSettings.json
