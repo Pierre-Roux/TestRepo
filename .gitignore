@@ -75,3 +75,4 @@ SpaceSurvivor/Library/PackageCache/
 TestRepo_project/ProjectSettings/SceneTemplateSettings.json
 TestRepo_project/ProjectSettings/ShaderGraphSettings.asset
 TestRepo_project/ProjectSettings/ShaderGraphSettings.asset
+*.plist
